@@ -77,3 +77,9 @@
     ```bash
     pip install -r requirements.txt
     ```
+
+### UI REFERENCES
+
+- https://appbuilder-docs.agora.io/customization-api/api-reference/components-api
+- https://appbuilder-docs.agora.io/sdks/guides/embed_web_sdk_react
+- https://appbuilder-docs.agora.io/customization-api/quickstart
